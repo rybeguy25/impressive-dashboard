@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Nexus Analytics Dashboard",
-  description: "A premium Next.js dashboard featuring complex UI, glassmorphism, and data visualizations.",
+  title: "Nexus Paper Exchange — Stock Simulation Game",
+  description: "A 30-day stock trading game with fictional companies, simulated market events, and a $10,000 starting portfolio. No real money or live prices.",
 };
 
 export default function RootLayout({ children }) {
